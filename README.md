@@ -1,9 +1,3 @@
-<p align="center">
-    <img width="100" src="./assets/badge AI Article.png">
-</p>
-
--------
-
 # Projeto artigo técnico gerado por I.A.s
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover autoridade técnica.
